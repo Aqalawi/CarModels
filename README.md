@@ -5,7 +5,7 @@ Instructions to Start the Application Locally
 .NET Core SDK installed on your machine
 **Steps**
 1.Clone the repository to your local machine:
--git clone https://github.com/your-username/car-models-api.git
+-git clone https://github.com/Aqalawi/CarModels
 -cd car-models-api
 2.Open a terminal or command prompt and navigate to the project directory:
 -cd CarModelsApi

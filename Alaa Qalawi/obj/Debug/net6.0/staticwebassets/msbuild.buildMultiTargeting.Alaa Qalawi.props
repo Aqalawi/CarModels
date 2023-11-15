@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Alaa Qalawi.props" />
+</Project>

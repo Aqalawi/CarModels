@@ -1,0 +1,33 @@
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\bin\Debug\net6.0\appsettings.json
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\bin\Debug\net6.0\Alaa Qalawi.exe
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\bin\Debug\net6.0\Alaa Qalawi.deps.json
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\bin\Debug\net6.0\Alaa Qalawi.runtimeconfig.json
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\bin\Debug\net6.0\Alaa Qalawi.dll
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\bin\Debug\net6.0\Alaa Qalawi.pdb
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\Alaa Qalawi.csproj.AssemblyReference.cache
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\Alaa Qalawi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\Alaa Qalawi.AssemblyInfoInputs.cache
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\Alaa Qalawi.AssemblyInfo.cs
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\Alaa Qalawi.csproj.CoreCompileInputs.cache
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\Alaa Qalawi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\Alaa Qalawi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\staticwebassets\msbuild.Alaa Qalawi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\staticwebassets\msbuild.build.Alaa Qalawi.props
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alaa Qalawi.props
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alaa Qalawi.props
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\scopedcss\bundle\Alaa Qalawi.styles.css
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\Alaa Qalawi.csproj.CopyComplete
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\Alaa Qalawi.dll
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\refint\Alaa Qalawi.dll
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\Alaa Qalawi.pdb
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\Alaa Qalawi.genruntimeconfig.cache
+C:\Users\aqalawi\Desktop\CarModel\Alaa Qalawi\Alaa Qalawi\obj\Debug\net6.0\ref\Alaa Qalawi.dll
